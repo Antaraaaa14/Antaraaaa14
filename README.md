@@ -36,7 +36,7 @@ Team project created in a 24-hour hackathon — travel info interface.
 
 
 🎯 Highlights & Achievements
-- Participated in a 24-hour Hackathon** (Kerala Explorer App idea)  
+- Participated in a 24-hour Hackathon(Kerala Explorer App idea)  
 - Created multiple Python mini-projects and Scratch stories  
 - Consistent GitHub practice & learning commits  
 
